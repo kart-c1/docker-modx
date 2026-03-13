@@ -23,4 +23,4 @@
 
 # Generated webroot after installer runs
 /www/*
-!/www/modx-2.8.8-pl/
+!/www/modx-3.2.0-pl/
